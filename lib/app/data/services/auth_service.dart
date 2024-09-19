@@ -3,7 +3,7 @@ import 'dart:convert';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:get/get.dart';
-import 'package:task_app/app/data/get_storage/get_storage.dart';
+import 'package:task_app/app/utility/get_storage/get_storage.dart';
 import 'package:task_app/app/data/models/user_model.dart';
 import 'package:task_app/const/app_const/app_collections.dart';
 import 'package:task_app/const/app_const/app_keys.dart';
